@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+python-multipart
+pydantic-settings
+email-validator
+passlib
+bcrypt
+alembic
+asyncpg
+sqlalchemy
+uuid6
+python-jose
+redis
+httpx
+pytest
+pytest-asyncio
